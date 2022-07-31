@@ -1,5 +1,5 @@
 - Hi, I’m @erol1098. I have a B.Sc in Computer Science.
-- 👀 I’m aiming to be a Front-End Web Developer.
+- 👀 I’m a Front-End Web Developer.
 - 🌱 I’m currently learning React. Also interesting in Web3.
 - 💞️ I’m looking to collaborate on my projects, please feel free to collaborate.
 
