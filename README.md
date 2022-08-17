@@ -1,9 +1,8 @@
 - Hi, I’m @erol1098. I have a B.Sc in Computer Science.
 - 👀 I’m a Front-End Web Developer.
-- 🌱 I’m currently learning React. Also interesting in Web3.
 - 💞️ I’m looking to collaborate on my projects, please feel free to collaborate.
 
-- 💬 Ask me about **JavaScript, React, HTML, CSS and Python.**
+- 💬 Ask me about **JavaScript and React.**
 
 - 📫 How to reach me **erol1098@gmail.com**
 
