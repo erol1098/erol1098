@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **erol1098@gmail.com**
 
-- 📫 LinkedIn --> **https://www.linkedin.com/in/erol-mahmuto%C4%9Flu/**
+- 📫 LinkedIn --> **https://www.linkedin.com/in/erol-mahmutoglu/**
 </p>
 
 <h3 align="left">Technologies:</h3>
